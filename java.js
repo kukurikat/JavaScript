@@ -1,1 +1,1 @@
-console.log("puk");
+console.log("perdik");
