@@ -1,1 +1,2 @@
-console.log("puk");
+var message = "puk";
+console.log(message);
